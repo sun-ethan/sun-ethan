@@ -1,4 +1,4 @@
-## Hi there 👋
+## Regarder mon profil trop stylé 👋
 
 <!--
 **sun-ethan/sun-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
