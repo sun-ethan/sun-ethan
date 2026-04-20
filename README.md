@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Ethan%20Sun&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Ethan%20Sun&fontSize=50&animation=fadeIn&fontFamily=Orbitron" />
 </p>
 
 # Salut ! 👋 🚀
 
 ### 🎓 À propos de moi
 - 🏫 Actuellement en **Terminale Bac Pro CIEL** (Cybersécurité, Informatique et réseaux, Électronique) au Lycée Jean-François Champollion.
-- 🖥️ Passionné par l'informatique, de la programmation à la gestion des infrastructures réseaux.
+- 🌐 **Passionné par les infrastructures réseaux** et la cybersécurité. J'aime comprendre comment les données circulent et comment sécuriser les échanges.
+- 👨‍💻 Développeur curieux et touche-à-tout.
 - 🌍 Mon portfolio : [portfolio.sunshine.li](https://portfolio.sunshine.li)
 
 ---
@@ -25,11 +26,12 @@
 
 **💻 Systèmes, Réseaux & Outils**
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
