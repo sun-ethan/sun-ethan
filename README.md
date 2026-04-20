@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Stack Technique
+### 🛠 Mes outils
 
 **🌐 Web & Programmation**
 <p align="left">
