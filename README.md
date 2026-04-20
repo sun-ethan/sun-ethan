@@ -1,8 +1,13 @@
-# Salut ! Moi c'est Ethan Sun 👋 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Ethan%20Sun&fontSize=50&animation=fadeIn" />
+</p>
+
+# Salut ! 👋 🚀
 
 ### 🎓 À propos de moi
 - 🏫 Actuellement en **Terminale au Lycée Jean-François Champollion**.
-- 👨‍💻 Passionné par le développement web et logiciel.
+- 📚 Spécialités : **NSI** (Numérique et Sciences Informatiques) & **Mathématiques**.
+- 👨‍💻 Passionné par le développement web et la programmation logicielle.
 - 🌍 Mon portfolio : [portfolio.sunshine.li](https://portfolio.sunshine.li)
 
 ---
