@@ -7,7 +7,7 @@
 ### 🎓 À propos de moi
 - 🏫 Actuellement en **Terminale Bac Pro CIEL** (Cybersécurité, Informatique et réseaux, Électronique) au Lycée Jean-François Champollion.
 - 🌐 **Passionné par les infrastructures réseaux** et la cybersécurité. J'aime comprendre comment les données circulent et comment sécuriser les échanges.
-- 👨‍💻 Développeur curieux et touche-à-tout.
+- 👨‍💻 Développeur curieux et touche à tout.
 - 🌍 Mon portfolio : [portfolio.sunshine.li](https://portfolio.sunshine.li)
 
 ---
