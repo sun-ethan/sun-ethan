@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1793D1&height=180&section=header&text=Ethan Sun&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  img src="https://capsule-render.vercel.app/api?type=waving&color=3776ab&height=150&section=header&text=Ethan%20Sun&fontSize=50&animation=fadeIn&fontFamily=Orbitron" />
 </p>
 
 # Salut ! 👋 🚀
